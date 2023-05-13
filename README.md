@@ -1,2 +1,2 @@
-# Demo-repo
+# Demo
 First github repo
